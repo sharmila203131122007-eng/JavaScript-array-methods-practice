@@ -1,0 +1,5 @@
+let marks = [35, 80, 45, 25, 90];
+
+let result = marks.filter(mark => mark >= 40);
+
+console.log(result);
